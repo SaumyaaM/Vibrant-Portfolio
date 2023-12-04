@@ -1,6 +1,6 @@
 # Vibrant-Portfolio
 Frontend-Development.   
 
-An attractive portfolio with vibrant colors and styles. Each page is made differently to try different color combinations, and help everyone to choose the color of their preference for the portfolio.   
+An responsive and attractive portfolio with decent colors and styles. Each page is made differently to try different combinations and styles yet making it easy to use.   
 
-Languages used- HTML, CSS.   
+Languages used- HTML, CSS, Javascript  
